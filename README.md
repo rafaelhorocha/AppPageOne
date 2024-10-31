@@ -7,7 +7,7 @@
 
 <h3>Sumário da WIKI: </h3>
 
-<a href="[https://github.com/rafaelhorocha/Aplicativo-SP-Ocean-470/wiki/Descri%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o](https://github.com/rafaelhorocha/AppPageOne.wiki.git)">Protótipo de alto nivel (com Widgets e descrição das classes)</a>
+<a href="https://github.com/rafaelhorocha/AppPageOne/wiki">Protótipo de alto nivel (com Widgets e descrição das classes)</a>
 
 
 
